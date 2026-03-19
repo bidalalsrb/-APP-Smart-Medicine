@@ -1,4 +1,4 @@
-#!/usr/bin/env no
+#!/usr/bin/ no
 
 /**
  * This script ie.
